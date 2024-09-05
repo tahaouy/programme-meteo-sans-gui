@@ -38,30 +38,15 @@ bash
 
 Copier le code
 
-`git clone https://github.com/votre_nom_utilisateur/nom_du_depot.git` 
-
-Remplacez `votre_nom_utilisateur` et `nom_du_depot` par vos informations.
+`git clone https://github.com/tahaouy/programme-meteo-sans-gui.git` 
 
 ## Lancer le programme
 
 Accédez au répertoire du projet :
 
-bash
+executer le fichier `main.py` 
 
-Copier le code
-
-`cd nom_du_depot` 
-
-Exécutez le programme :
-
-bash
-
-Copier le code
-
-`python nom_du_fichier.py` 
-
-Remplacez `nom_du_fichier.py` par le nom du fichier Python principal de votre projet.
 
 ## Utilisation
 
-Suivez les instructions à l'écran pour ajouter, supprimer ou afficher vos villes. Lorsque vous souhaitez obtenir les données météorologiques, saisissez le nom de la ville souhaitée. Assurez-vous d'avoir une clé API valide pour OpenWeatherMap et modifiez le code en conséquence si nécessaire.
+Suivez les instructions à l'écran pour ajouter, supprimer ou afficher vos villes. Lorsque vous souhaitez obtenir les données météorologiques, saisissez le nom de la ville souhaitée.
